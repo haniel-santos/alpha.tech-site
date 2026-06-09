@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://alphatech.vercel.app">
-    <img src="public/favicon.svg" alt="Alpha.Tech" width="80" />
+    <img src="public/logo.jpg" alt="Alpha.Tech" width="80" />
   </a>
 </p>
 
