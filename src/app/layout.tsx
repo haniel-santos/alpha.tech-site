@@ -27,7 +27,13 @@ export const metadata: Metadata = {
     "Alpha.Tech",
   ],
   icons: {
-    icon: "/logo.jpg",
+    icon: [
+      { url: "/favicon-16x16.png", type: "image/png", sizes: "16x16" },
+      { url: "/favicon-32x32.png", type: "image/png", sizes: "32x32" },
+    ],
+    apple: [
+      { url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" },
+    ],
   },
   openGraph: {
     title: "Alpha.Tech | Tecnologia, Automação e IA",
