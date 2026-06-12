@@ -37,7 +37,7 @@ const SERVICES = [
   },
   {
     title: "Sistemas Personalizados",
-    desc: "Sistemas web feitos sob medida pro seu negócio. Gestão, agendamento, vendas, controle financeiro — o que você precisar.",
+    desc: "Sistemas web feitos sob medida pro seu negócio. Gestão, agendamento, vendas, controle financeiro e o que você precisar.",
     icon: (
       <svg className="h-7 w-7" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
         <rect x="2" y="3" width="20" height="14" rx="2" ry="2" />
