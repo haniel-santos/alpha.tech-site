@@ -27,14 +27,8 @@ export const metadata: Metadata = {
     "Alpha.Tech",
   ],
   icons: {
-    icon: [
-      { url: "/favicon.ico", type: "image/x-icon" },
-      { url: "/favicon-16x16.png", type: "image/png", sizes: "16x16" },
-      { url: "/favicon-32x32.png", type: "image/png", sizes: "32x32" },
-    ],
-    apple: [
-      { url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" },
-    ],
+    icon: { url: "/favicon.ico", type: "image/x-icon" },
+    apple: { url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" },
   },
   openGraph: {
     title: "Alpha.Tech | Tecnologia, Automação e IA",
@@ -55,7 +49,7 @@ const jsonLd = {
   "@type": "Organization",
   name: "Alpha.Tech",
   url: "https://alphatech.vercel.app",
-  logo: "https://alphatech.vercel.app/logo.jpg",
+  logo: "https://alphatech.vercel.app/logo.png",
   description:
     "Criamos sites, sistemas e automações inteligentes para empresas que querem vender mais, atender melhor e economizar tempo.",
   email: "alphatechsolucoesbr@gmail.com",
